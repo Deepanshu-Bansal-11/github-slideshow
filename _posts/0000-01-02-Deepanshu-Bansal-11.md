@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am Deepanshu learning to use Git repository
 Use the left arrow to go back!
